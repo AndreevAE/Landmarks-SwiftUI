@@ -31,6 +31,7 @@
 		11ABDE2E24A011F400D97154 /* icybay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE2224A011F400D97154 /* icybay.jpg */; };
 		11ABDE2F24A011F400D97154 /* twinlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE2324A011F400D97154 /* twinlake.jpg */; };
 		11ABDE3024A011F400D97154 /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE2424A011F400D97154 /* hiddenlake.jpg */; };
+		11ABDE3224A012EF00D97154 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE3124A012EF00D97154 /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		11ABDE2224A011F400D97154 /* icybay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icybay.jpg; sourceTree = "<group>"; };
 		11ABDE2324A011F400D97154 /* twinlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twinlake.jpg; sourceTree = "<group>"; };
 		11ABDE2424A011F400D97154 /* hiddenlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hiddenlake.jpg; sourceTree = "<group>"; };
+		11ABDE3124A012EF00D97154 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				113CB0A824A0066D00943824 /* Resources */,
 				113CB0AB24A00F8900943824 /* Supporting Views */,
 				113CB0AC24A00FC700943824 /* LandmarkRow.swift */,
+				11ABDE3124A012EF00D97154 /* LandmarkList.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				113CB08C249FF11000943824 /* AppDelegate.swift in Sources */,
 				113CB0A0249FF9D300943824 /* CircleImage.swift in Sources */,
 				113CB0A2249FFBA800943824 /* MapView.swift in Sources */,
+				11ABDE3224A012EF00D97154 /* LandmarkList.swift in Sources */,
 				113CB08E249FF11000943824 /* SceneDelegate.swift in Sources */,
 				113CB090249FF11000943824 /* LandmarkDetails.swift in Sources */,
 				113CB0AD24A00FC700943824 /* LandmarkRow.swift in Sources */,
