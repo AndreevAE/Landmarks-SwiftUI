@@ -33,6 +33,7 @@
 		11ABDE3024A011F400D97154 /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE2424A011F400D97154 /* hiddenlake.jpg */; };
 		11ABDE3224A012EF00D97154 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE3124A012EF00D97154 /* LandmarkList.swift */; };
 		11ABDE4C24A021BE00D97154 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE4B24A021BE00D97154 /* charleyrivers.jpg */; };
+		11ABDE4E24A025D900D97154 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE4D24A025D900D97154 /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		11ABDE2424A011F400D97154 /* hiddenlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hiddenlake.jpg; sourceTree = "<group>"; };
 		11ABDE3124A012EF00D97154 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		11ABDE4B24A021BE00D97154 /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
+		11ABDE4D24A025D900D97154 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				113CB08B249FF11000943824 /* AppDelegate.swift */,
 				113CB08F249FF11000943824 /* LandmarkDetail.swift */,
 				11ABDE3124A012EF00D97154 /* LandmarkList.swift */,
+				11ABDE4D24A025D900D97154 /* UserData.swift */,
 				113CB0AC24A00FC700943824 /* LandmarkRow.swift */,
 				113CB08D249FF11000943824 /* SceneDelegate.swift */,
 				113CB091249FF11200943824 /* Assets.xcassets */,
@@ -252,6 +255,7 @@
 				113CB08E249FF11000943824 /* SceneDelegate.swift in Sources */,
 				113CB090249FF11000943824 /* LandmarkDetail.swift in Sources */,
 				113CB0AD24A00FC700943824 /* LandmarkRow.swift in Sources */,
+				11ABDE4E24A025D900D97154 /* UserData.swift in Sources */,
 				113CB0A424A003EA00943824 /* Landmark.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
