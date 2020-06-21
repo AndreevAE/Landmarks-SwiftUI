@@ -100,6 +100,7 @@
 				113CB08B249FF11000943824 /* AppDelegate.swift */,
 				113CB08F249FF11000943824 /* LandmarkDetail.swift */,
 				11ABDE3124A012EF00D97154 /* LandmarkList.swift */,
+				113CB0AC24A00FC700943824 /* LandmarkRow.swift */,
 				113CB08D249FF11000943824 /* SceneDelegate.swift */,
 				113CB091249FF11200943824 /* Assets.xcassets */,
 				113CB096249FF11200943824 /* LaunchScreen.storyboard */,
@@ -153,7 +154,6 @@
 			isa = PBXGroup;
 			children = (
 				113CB09F249FF9D300943824 /* CircleImage.swift */,
-				113CB0AC24A00FC700943824 /* LandmarkRow.swift */,
 				113CB0A1249FFBA800943824 /* MapView.swift */,
 			);
 			path = "Supporting Views";
