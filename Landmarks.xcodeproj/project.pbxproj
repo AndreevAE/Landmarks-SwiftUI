@@ -97,6 +97,8 @@
 				113CB099249FF11200943824 /* Info.plist */,
 				113CB08B249FF11000943824 /* AppDelegate.swift */,
 				113CB08F249FF11000943824 /* LandmarkDetails.swift */,
+				11ABDE3124A012EF00D97154 /* LandmarkList.swift */,
+				113CB0AC24A00FC700943824 /* LandmarkRow.swift */,
 				113CB08D249FF11000943824 /* SceneDelegate.swift */,
 				113CB091249FF11200943824 /* Assets.xcassets */,
 				113CB096249FF11200943824 /* LaunchScreen.storyboard */,
@@ -104,8 +106,6 @@
 				113CB093249FF11200943824 /* Preview Content */,
 				113CB0A824A0066D00943824 /* Resources */,
 				113CB0AB24A00F8900943824 /* Supporting Views */,
-				113CB0AC24A00FC700943824 /* LandmarkRow.swift */,
-				11ABDE3124A012EF00D97154 /* LandmarkList.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
