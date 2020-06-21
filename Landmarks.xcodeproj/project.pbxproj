@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		113CB08C249FF11000943824 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08B249FF11000943824 /* AppDelegate.swift */; };
 		113CB08E249FF11000943824 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08D249FF11000943824 /* SceneDelegate.swift */; };
-		113CB090249FF11000943824 /* LandmarkDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08F249FF11000943824 /* LandmarkDetails.swift */; };
+		113CB090249FF11000943824 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08F249FF11000943824 /* LandmarkDetail.swift */; };
 		113CB092249FF11200943824 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 113CB091249FF11200943824 /* Assets.xcassets */; };
 		113CB095249FF11200943824 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 113CB094249FF11200943824 /* Preview Assets.xcassets */; };
 		113CB098249FF11200943824 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 113CB096249FF11200943824 /* LaunchScreen.storyboard */; };
@@ -38,7 +38,7 @@
 		113CB088249FF11000943824 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		113CB08B249FF11000943824 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		113CB08D249FF11000943824 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		113CB08F249FF11000943824 /* LandmarkDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetails.swift; sourceTree = "<group>"; };
+		113CB08F249FF11000943824 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		113CB091249FF11200943824 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		113CB094249FF11200943824 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		113CB097249FF11200943824 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 			children = (
 				113CB099249FF11200943824 /* Info.plist */,
 				113CB08B249FF11000943824 /* AppDelegate.swift */,
-				113CB08F249FF11000943824 /* LandmarkDetails.swift */,
+				113CB08F249FF11000943824 /* LandmarkDetail.swift */,
 				11ABDE3124A012EF00D97154 /* LandmarkList.swift */,
 				113CB0AC24A00FC700943824 /* LandmarkRow.swift */,
 				113CB08D249FF11000943824 /* SceneDelegate.swift */,
@@ -246,7 +246,7 @@
 				113CB0A2249FFBA800943824 /* MapView.swift in Sources */,
 				11ABDE3224A012EF00D97154 /* LandmarkList.swift in Sources */,
 				113CB08E249FF11000943824 /* SceneDelegate.swift in Sources */,
-				113CB090249FF11000943824 /* LandmarkDetails.swift in Sources */,
+				113CB090249FF11000943824 /* LandmarkDetail.swift in Sources */,
 				113CB0AD24A00FC700943824 /* LandmarkRow.swift in Sources */,
 				113CB0A424A003EA00943824 /* Landmark.swift in Sources */,
 			);
