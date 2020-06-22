@@ -45,6 +45,7 @@
 		11ABDE6024A03A2700D97154 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE5F24A03A2700D97154 /* Hike.swift */; };
 		11ABDE6224A03AAD00D97154 /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE6124A03AAD00D97154 /* hikeData.json */; };
 		11ABDE6424A03AE200D97154 /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE6324A03AE100D97154 /* GraphCapsule.swift */; };
+		11ABDE6624A04FB300D97154 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE6524A04FB300D97154 /* CategoryHome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		11ABDE5F24A03A2700D97154 /* Hike.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
 		11ABDE6124A03AAD00D97154 /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		11ABDE6324A03AE100D97154 /* GraphCapsule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
+		11ABDE6524A04FB300D97154 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 		113CB08A249FF11000943824 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				11ABDE6524A04FB300D97154 /* CategoryHome.swift */,
 				113CB099249FF11200943824 /* Info.plist */,
 				113CB08B249FF11000943824 /* AppDelegate.swift */,
 				11ABDE4F24A02BE500D97154 /* HexagonParameters.swift */,
@@ -282,6 +285,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				11ABDE6424A03AE200D97154 /* GraphCapsule.swift in Sources */,
+				11ABDE6624A04FB300D97154 /* CategoryHome.swift in Sources */,
 				113CB0A724A0065F00943824 /* Data.swift in Sources */,
 				11ABDE5E24A039EA00D97154 /* HikeGraph.swift in Sources */,
 				11ABDE5224A02C6A00D97154 /* BadgeBackground.swift in Sources */,
