@@ -124,10 +124,10 @@
 		113CB08A249FF11000943824 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
-				11ABDE6524A04FB300D97154 /* CategoryHome.swift */,
-				11ABDE6724A0517000D97154 /* CategoryRow.swift */,
 				113CB099249FF11200943824 /* Info.plist */,
 				113CB08B249FF11000943824 /* AppDelegate.swift */,
+				11ABDE6524A04FB300D97154 /* CategoryHome.swift */,
+				11ABDE6724A0517000D97154 /* CategoryRow.swift */,
 				11ABDE4F24A02BE500D97154 /* HexagonParameters.swift */,
 				11ABDE5924A039A100D97154 /* HikeDetail.swift */,
 				11ABDE5B24A039BF00D97154 /* HikeView.swift */,
