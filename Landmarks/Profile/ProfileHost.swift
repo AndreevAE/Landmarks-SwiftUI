@@ -1,0 +1,25 @@
+//
+//  ProfileHost.swift
+//  Landmarks
+//
+//  Created by Александр Андреев on 22.06.2020.
+//  Copyright © 2020 Александр Андреев. All rights reserved.
+//
+
+import SwiftUI
+
+struct ProfileHost: View {
+    @State var draftProfile = Profile.default
+    var body: some View {
+        VStack(alignment: .leading, spacing: 20) {
+            ProfileSummary(profile: draftProfile)
+        }
+        .padding()
+    }
+}
+
+struct ProfileHost_Previews: PreviewProvider {
+    static var previews: some View {
+        ProfileHost()
+    }
+}
