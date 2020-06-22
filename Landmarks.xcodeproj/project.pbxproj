@@ -66,6 +66,7 @@
 		117CF65424A1029500A4D9D4 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 113CB0A924A006BA00943824 /* landmarkData.json */; };
 		117CF65624A103A200A4D9D4 /* WatchLandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 117CF65524A103A200A4D9D4 /* WatchLandmarkDetail.swift */; };
 		117CF65824A108A300A4D9D4 /* WatchMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 117CF65724A108A300A4D9D4 /* WatchMapView.swift */; };
+		117CF65924A10E3300A4D9D4 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE3124A012EF00D97154 /* LandmarkList.swift */; };
 		11ABDE2524A011F400D97154 /* silversalmoncreek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE1924A011F400D97154 /* silversalmoncreek.jpg */; };
 		11ABDE2624A011F400D97154 /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE1A24A011F400D97154 /* stmarylake.jpg */; };
 		11ABDE2724A011F400D97154 /* yukon_charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE1B24A011F400D97154 /* yukon_charleyrivers.jpg */; };
@@ -625,6 +626,7 @@
 				117CF65824A108A300A4D9D4 /* WatchMapView.swift in Sources */,
 				117CF63F24A1024600A4D9D4 /* Profile.swift in Sources */,
 				117CF62224A1017D00A4D9D4 /* HostingController.swift in Sources */,
+				117CF65924A10E3300A4D9D4 /* LandmarkList.swift in Sources */,
 				117CF62024A1017D00A4D9D4 /* ContentView.swift in Sources */,
 				117CF63B24A1024600A4D9D4 /* LandmarkRow.swift in Sources */,
 				117CF64124A1024600A4D9D4 /* CircleImage.swift in Sources */,
