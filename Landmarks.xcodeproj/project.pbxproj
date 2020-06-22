@@ -46,6 +46,7 @@
 		11ABDE6224A03AAD00D97154 /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 11ABDE6124A03AAD00D97154 /* hikeData.json */; };
 		11ABDE6424A03AE200D97154 /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE6324A03AE100D97154 /* GraphCapsule.swift */; };
 		11ABDE6624A04FB300D97154 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE6524A04FB300D97154 /* CategoryHome.swift */; };
+		11ABDE6824A0517000D97154 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11ABDE6724A0517000D97154 /* CategoryRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		11ABDE6124A03AAD00D97154 /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		11ABDE6324A03AE100D97154 /* GraphCapsule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
 		11ABDE6524A04FB300D97154 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
+		11ABDE6724A0517000D97154 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 			isa = PBXGroup;
 			children = (
 				11ABDE6524A04FB300D97154 /* CategoryHome.swift */,
+				11ABDE6724A0517000D97154 /* CategoryRow.swift */,
 				113CB099249FF11200943824 /* Info.plist */,
 				113CB08B249FF11000943824 /* AppDelegate.swift */,
 				11ABDE4F24A02BE500D97154 /* HexagonParameters.swift */,
@@ -284,6 +287,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11ABDE6824A0517000D97154 /* CategoryRow.swift in Sources */,
 				11ABDE6424A03AE200D97154 /* GraphCapsule.swift in Sources */,
 				11ABDE6624A04FB300D97154 /* CategoryHome.swift in Sources */,
 				113CB0A724A0065F00943824 /* Data.swift in Sources */,
