@@ -1,9 +1,9 @@
 /*
-See LICENSE folder for this sample’s licensing information.
+ See LICENSE folder for this sample’s licensing information.
 
-Abstract:
-The model for an individual landmark.
-*/
+ Abstract:
+ The model for an individual landmark.
+ */
 
 import SwiftUI
 import CoreLocation
@@ -17,6 +17,7 @@ struct Landmark: Hashable, Codable, Identifiable {
     var park: String
     var category: Category
     var isFavorite: Bool
+    var isFeatured: Bool
 
     var locationCoordinate: CLLocationCoordinate2D {
         CLLocationCoordinate2D(
