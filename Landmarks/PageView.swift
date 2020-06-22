@@ -16,9 +16,10 @@ struct PageView<Page: View>: View {
         self.viewControllers = views.map { UIHostingController(rootView: $0) }
     }
     var body: some View {
-        VStack {
+        ZStack(alignment: .bottomTrailing) {
             PageViewController(controllers: viewControllers, currentPage: $currentPage)
-            Text("Current Page: \(currentPage)")
+            PageControl(numberOfPages: viewControllers.count, currentPage: $currentPage)
+                .padding(.trailing)
         }
     }
 }
