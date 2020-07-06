@@ -39,6 +39,7 @@
 		1124F51624B37ADB0085D707 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1124F51524B37ADB0085D707 /* LandmarkList.swift */; };
 		1124F51824B37CA60085D707 /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1124F51724B37CA60085D707 /* Filter.swift */; };
 		1124F51A24B394D50085D707 /* NavigationPrimary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1124F51924B394D50085D707 /* NavigationPrimary.swift */; };
+		1124F51B24B397A00085D707 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB09F249FF9D300943824 /* CircleImage.swift */; };
 		113CB08C249FF11000943824 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08B249FF11000943824 /* AppDelegate.swift */; };
 		113CB08E249FF11000943824 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08D249FF11000943824 /* SceneDelegate.swift */; };
 		113CB090249FF11000943824 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08F249FF11000943824 /* LandmarkDetail.swift */; };
@@ -717,6 +718,7 @@
 				1124F51A24B394D50085D707 /* NavigationPrimary.swift in Sources */,
 				1124F4FF24B378AA0085D707 /* Profile.swift in Sources */,
 				1124F50024B378AA0085D707 /* UserData.swift in Sources */,
+				1124F51B24B397A00085D707 /* CircleImage.swift in Sources */,
 				1124F4FC24B378AA0085D707 /* Data.swift in Sources */,
 				1124F51624B37ADB0085D707 /* LandmarkList.swift in Sources */,
 				1124F4FD24B378AA0085D707 /* Hike.swift in Sources */,
