@@ -41,6 +41,7 @@
 		1124F51A24B394D50085D707 /* NavigationPrimary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1124F51924B394D50085D707 /* NavigationPrimary.swift */; };
 		1124F51B24B397A00085D707 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB09F249FF9D300943824 /* CircleImage.swift */; };
 		1124F51C24B398850085D707 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB0A1249FFBA800943824 /* MapView.swift */; };
+		1124F51E24B39A3D0085D707 /* NavigationDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1124F51D24B39A3D0085D707 /* NavigationDetail.swift */; };
 		113CB08C249FF11000943824 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08B249FF11000943824 /* AppDelegate.swift */; };
 		113CB08E249FF11000943824 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08D249FF11000943824 /* SceneDelegate.swift */; };
 		113CB090249FF11000943824 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 113CB08F249FF11000943824 /* LandmarkDetail.swift */; };
@@ -190,6 +191,7 @@
 		1124F51524B37ADB0085D707 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		1124F51724B37CA60085D707 /* Filter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filter.swift; sourceTree = "<group>"; };
 		1124F51924B394D50085D707 /* NavigationPrimary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationPrimary.swift; sourceTree = "<group>"; };
+		1124F51D24B39A3D0085D707 /* NavigationDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationDetail.swift; sourceTree = "<group>"; };
 		113CB088249FF11000943824 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		113CB08B249FF11000943824 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		113CB08D249FF11000943824 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -301,6 +303,7 @@
 				1124F51524B37ADB0085D707 /* LandmarkList.swift */,
 				1124F51724B37CA60085D707 /* Filter.swift */,
 				1124F51924B394D50085D707 /* NavigationPrimary.swift */,
+				1124F51D24B39A3D0085D707 /* NavigationDetail.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
@@ -714,6 +717,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1124F51E24B39A3D0085D707 /* NavigationDetail.swift in Sources */,
 				1124F4EE24B377C10085D707 /* ContentView.swift in Sources */,
 				1124F51824B37CA60085D707 /* Filter.swift in Sources */,
 				1124F51A24B394D50085D707 /* NavigationPrimary.swift in Sources */,
